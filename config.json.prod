@@ -8,7 +8,7 @@
     "milliEtherToTransfer": 5000,
     "gasLimit": "30000",
     "live": {
-      "rpc": "https://rpc.slock.it/goerli",
+      "rpc": "https://rpc.goerli.mudit.blog/",
       "account": "INSERT YOUR GOERLI ETHEREUM ADDRESS HERE",
       "privateKey": "INSERT YOUR GOERLI ETHEREUM ADDRESS PRIVATE KEY HERE MINUS THE INTIAL 0x"
     }
