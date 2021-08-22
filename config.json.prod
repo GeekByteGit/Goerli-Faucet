@@ -2,15 +2,15 @@
   "environment": "live",
   "debug": false,
   "Captcha": {
-    "secret": "6Lfe3I0UAAAAAJGAlZEETVmbk3-wRnqYH1ActFme"
+    "secret": "INSERT YOUR GOOGLE RECAPTCHA SECRET KEY HERE"
   },
   "Ethereum": {
-    "milliEtherToTransfer": 50,
+    "milliEtherToTransfer": 5000,
     "gasLimit": "30000",
     "live": {
-      "rpc": "",
-      "account": "",
-      "privateKey": ""
+      "rpc": "https://rpc.slock.it/goerli",
+      "account": "INSERT YOUR GOERLI ETHEREUM ADDRESS HERE",
+      "privateKey": "INSERT YOUR GOERLI ETHEREUM ADDRESS PRIVATE KEY HERE MINUS THE INTIAL 0x"
     }
   }
 }
