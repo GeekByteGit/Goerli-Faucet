@@ -86,7 +86,8 @@ module.exports = function (app) {
 		  gasLimit: gasLimitHex,
 		  to: receiver, 
 		  value: ethToSend,
-		  data: '0x00'
+		  data: '0x00',
+		  chainId: 5
 		}
 
 		const tx = new EthereumTx(rawTx)
