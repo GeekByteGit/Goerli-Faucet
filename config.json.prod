@@ -10,7 +10,7 @@
     "live": {
       "rpc": "https://rpc.goerli.mudit.blog/",
       "account": "INSERT YOUR GOERLI ETHEREUM ADDRESS HERE",
-      "privateKey": "INSERT YOUR GOERLI ETHEREUM ADDRESS PRIVATE KEY HERE MINUS THE INTIAL 0x"
+      "privateKey": "INSERT YOUR GOERLI ETHEREUM ADDRESS PRIVATE KEY HERE MINUS THE INITIAL 0x"
     }
   }
 }
