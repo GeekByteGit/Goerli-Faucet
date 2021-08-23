@@ -5,7 +5,7 @@
     "secret": "INSERT YOUR GOOGLE RECAPTCHA SECRET KEY HERE"
   },
   "Ethereum": {
-    "milliEtherToTransfer": 5000,
+    "milliEtherToTransfer": 1000,
     "gasLimit": "30000",
     "live": {
       "rpc": "https://rpc.goerli.mudit.blog/",
